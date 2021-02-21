@@ -1,0 +1,40 @@
+h1{
+    color:White
+}
+*{
+    border: 5px groove white 
+}
+
+.menu{
+    margin-right:50px;
+}
+
+.header{
+    background-color: cadetblue;
+
+    display:flex;
+
+    justify-content:space-between;
+}
+
+.games {
+    display:flex;
+    
+
+    flex-wrap:wrap;
+
+    justify-content:space-evenly;
+}
+
+.footer{
+    display:flex;
+
+    justify-content:center;
+}
+p,h2{
+    text-align:center;
+}
+
+*{
+    background-color:cadetblue;
+}
